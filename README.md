@@ -161,9 +161,8 @@ Contributions are welcome! Feel free to:
 
 **Email** - vahab.afsharian94@gmail.com
 
-**GitHub** - [@viboverse](https://github.com/viboverse)
+**GitHub** - [@TheLazyBee](https://github.com/TheLazyBee)
 
-**Project Link** - [https://github.com/viboverse/linear-kanban](https://github.com/viboverse/linear-kanban)
 
 <br />
 
@@ -173,6 +172,6 @@ Contributions are welcome! Feel free to:
 
 ### ⭐ Star this repo if you find it helpful!
 
-Built with ❤️ by **[LazyBee](https://github.com/viboverse)**
+Built with ❤️ by **[TheLazyBee](https://github.com/TheLazyBee)**
 
 </div>
